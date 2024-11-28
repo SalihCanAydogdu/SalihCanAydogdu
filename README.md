@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGxZyaz2UXusQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732178854494?e=1738195200&v=beta&t=W9Nc0hrEG0E9-MIuYWQyBsp5Ay1wvJtzHsewHoETI20" alt="Header">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Salih Can Aydogdu</h1>
 <h3 align="center">A computer scientist from Turkiye</h3>
 
