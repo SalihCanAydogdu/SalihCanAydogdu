@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihcanaydogdu&label=Profile%20views&color=0e75b6&style=flat" alt="salihcanaydogdu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihcanaydogdu" alt="salihcanaydogdu" /></a> </p>
-
 - 🌱 I’m currently learning **Java,Spring Boot and Vue!**
 
 - 💬 Ask me about **Java and Spring Boot!**
